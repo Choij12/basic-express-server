@@ -9,6 +9,11 @@ To start server run: npm start To test server run: npm test
 ## Routes
 GET /message: returns a list of messages that has been input
 POST /message: creates a message and saves it
+REST Method GET
+REST Method POST
+REST Method PUT
+REST Method DELETE
+
 
 ## Features
 Message:
